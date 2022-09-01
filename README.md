@@ -1,6 +1,6 @@
 # print-emoji-using-boost-and-icu
 
-print emoji with codepoints on console
+print unicode emoji with code points on console
 
 Microsoft Visual Studio Community 2022 (64-bit) - Preview
 Version 17.4.0 Preview 1.0
