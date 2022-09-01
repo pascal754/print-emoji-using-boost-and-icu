@@ -10,3 +10,5 @@ vcpkg:
 boost-locale 1.79.0
 
 icu 71.1
+
+executed on Windows Terminal
