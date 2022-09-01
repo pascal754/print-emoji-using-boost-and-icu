@@ -12,3 +12,5 @@ boost-locale 1.79.0
 icu 71.1
 
 executed on Windows Terminal
+
+![output image](https://github.com/pascal754/print-emoji-using-boost-and-icu/blob/main/emoji_output.png)
